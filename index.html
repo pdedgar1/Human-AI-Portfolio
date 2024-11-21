@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <img src="A_pencil-drawn_landscape_extending_beyond_the_orig.png" alt="Poet's jungle cabin landscape header">
+        <img src="A_pencil-drawn_landscape_extending_beyond_the_orig.png" alt="Poet's cabin landscape header">
         <nav>
             <ul>
                 <li><a href="#textual">Textual Experiments</a></li>
@@ -24,7 +24,24 @@
     <main>
         <section id="textual">
             <h2>Textual Experiments</h2>
-            <p>Here you can explore various textual AI experiments, including poetry, storytelling, and language exploration that challenge traditional formats and delve into human-machine creativity.</p>
+            <div class="card-container">
+                <div class="card" id="card1">
+                    <h3>Experiment 1: Generative Poetry</h3>
+                    <p>This experiment explores the use of AI to generate poetry based on various themes and styles, reflecting both human input and machine creativity.</p>
+                </div>
+                <div class="card" id="card2" style="display:none;">
+                    <h3>Experiment 2: Interactive Storytelling</h3>
+                    <p>In this experiment, AI contributes to creating interactive storytelling experiences where the reader can choose their own adventure.</p>
+                </div>
+                <div class="card" id="card3" style="display:none;">
+                    <h3>Experiment 3: Haibun Generative Art</h3>
+                    <p>This experiment delves into generating haibun, a Japanese form that blends prose and haiku, to capture transient moments in a narrative style.</p>
+                </div>
+                <div class="card-navigation">
+                    <button class="card-prev">&#10094; Previous</button>
+                    <button class="card-next">Next &#10095;</button>
+                </div>
+            </div>
         </section>
 
         <section id="visual">
@@ -70,6 +87,7 @@
 
     <script>
         $(document).ready(function() {
+            // Carousel functionality
             let currentIndex = 0;
             const slides = $('.carousel-slide');
             const totalSlides = slides.length;
@@ -90,6 +108,28 @@
             });
 
             showSlide(currentIndex);
+
+            // Card navigation functionality
+            let currentCardIndex = 0;
+            const cards = $('.card');
+            const totalCards = cards.length;
+
+            function showCard(index) {
+                cards.hide();
+                cards.eq(index).show();
+            }
+
+            $('.card-next').click(function() {
+                currentCardIndex = (currentCardIndex + 1) % totalCards;
+                showCard(currentCardIndex);
+            });
+
+            $('.card-prev').click(function() {
+                currentCardIndex = (currentCardIndex - 1 + totalCards) % totalCards;
+                showCard(currentCardIndex);
+            });
+
+            showCard(currentCardIndex);
         });
     </script>
 </body>
