@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <img src="header.png" alt="Poet's cabin landscape header">
+        <img src="A_pencil-drawn_landscape_extending_beyond_the_orig.png" alt="Poet's cabin landscape header">
         <nav>
             <ul>
                 <li><a href="#textual">Textual Experiments</a></li>
@@ -77,7 +77,20 @@
 
         <section id="procedural">
             <h2>Procedural Experiments</h2>
-            <p>This section features AI-driven procedural work, including interactive applications, generative code, and other dynamic forms of creative expression that explore the role of AI in procedural generation.</p>
+            <div class="card-container">
+                <div class="card" id="proc-card1">
+                    <h3>Experiment 1: Poetry Collection Discovery</h3>
+                    <p>Explore new and unique poetry collections through our AI-driven recommendation tool. <a href="recommendation/index.html">Discover a new poetry collection</a>.</p>
+                </div>
+                <div class="card" id="proc-card2" style="display:none;">
+                    <h3>Experiment 2: Scouting Minigame</h3>
+                    <p>Play our AI-powered scouting minigame to discover and interact with procedural storytelling elements. <a href="game/index.html">Start the scouting minigame</a>.</p>
+                </div>
+                <div class="card-navigation">
+                    <button class="card-prev">&#10094; Previous</button>
+                    <button class="card-next">Next &#10095;</button>
+                </div>
+            </div>
         </section>
     </main>
 
@@ -109,9 +122,9 @@
 
             showSlide(currentIndex);
 
-            // Card navigation functionality
+            // Card navigation functionality for textual section
             let currentCardIndex = 0;
-            const cards = $('.card');
+            const cards = $('#textual .card');
             const totalCards = cards.length;
 
             function showCard(index) {
@@ -130,6 +143,28 @@
             });
 
             showCard(currentCardIndex);
+
+            // Card navigation functionality for procedural section
+            let currentProcCardIndex = 0;
+            const procCards = $('#procedural .card');
+            const totalProcCards = procCards.length;
+
+            function showProcCard(index) {
+                procCards.hide();
+                procCards.eq(index).show();
+            }
+
+            $('#procedural .card-next').click(function() {
+                currentProcCardIndex = (currentProcCardIndex + 1) % totalProcCards;
+                showProcCard(currentProcCardIndex);
+            });
+
+            $('#procedural .card-prev').click(function() {
+                currentProcCardIndex = (currentProcCardIndex - 1 + totalProcCards) % totalProcCards;
+                showProcCard(currentProcCardIndex);
+            });
+
+            showProcCard(currentProcCardIndex);
         });
     </script>
 </body>

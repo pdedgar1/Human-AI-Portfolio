@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discover a New Poet</title>
+    <style>
+        body {
+            font-family: "Georgia", serif;
+            background-color: #f4ecd8;
+            color: #4b3d33;
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 2rem;
+            border-radius: 10px;
+            background: #fdf8e4;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        #tags-container {
+            margin-bottom: 2rem;
+            display: table;
+            width: 100%;
+            table-layout: fixed;
+        }
+        .tag-row {
+            display: table-row;
+        }
+        .tag-cell {
+            display: table-cell;
+            padding: 0.5rem;
+        }
+        #recommendation {
+            margin-top: 2rem;
+            padding: 1rem;
+            border: 1px solid #b7a99a;
+            border-radius: 8px;
+            background: #f6f1e1;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .tag-toggle {
+            padding: 0.75rem 1.25rem;
+            border: 1px solid #8b4513;
+            border-radius: 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+            white-space: nowrap;
+            background-color: #fdf8e4;
+            color: #4b3d33;
+        }
+        .tag-toggle.active {
+            background-color: #8b4513;
+            color: #ffffff;
+        }
+        .book-card {
+            border: 1px solid #b7a99a;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            background: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .book-card h2 {
+            margin: 0 0 0.5rem;
+            font-size: 1.25rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>Discover a New Poet</h1>
+    <h2>Select Your Interests</h2>
+    <div id="tags-container">
+        <div id="tags"></div>
+    </div>
+    <div id="recommendation">
+        <h2>Recommended Books</h2>
+        <div id="recommended-books"></div>
+    </div>
+
+    <script>
+        // Load JSON data
+        const poetryCollections = "poetry_collections.json";
+        let allBooks = [];
+        let selectedTags = [];
+        const allTags = new Set();
+
+        fetch(poetryCollections)
+            .then(response => response.json())
+            .then(data => {
+                allBooks = data;
+                data.forEach(book => {
+                    book.tags.forEach(tag => allTags.add(tag));
+                });
+                displayTags();
+            })
+            .catch(error => console.error('Error loading JSON:', error));
+
+        function displayTags() {
+            const tagsContainer = document.getElementById('tags');
+            tagsContainer.innerHTML = ""; // Clear previous tags
+
+            let row;
+            let columnCount = 0;
+            const maxColumns = 5; // Set number of columns per row
+
+            allTags.forEach(tag => {
+                if (columnCount % maxColumns === 0) {
+                    row = document.createElement('div');
+                    row.classList.add('tag-row');
+                    tagsContainer.appendChild(row);
+                }
+
+                const cell = document.createElement('div');
+                cell.classList.add('tag-cell');
+                const tagElement = document.createElement('div');
+                tagElement.classList.add('tag-toggle');
+                tagElement.textContent = tag;
+                tagElement.onclick = () => handleTagToggle(tagElement, tag);
+                cell.appendChild(tagElement);
+                row.appendChild(cell);
+
+                columnCount++;
+            });
+        }
+
+        function handleTagToggle(tagElement, tag) {
+            if (selectedTags.includes(tag)) {
+                selectedTags = selectedTags.filter(t => t !== tag);
+                tagElement.classList.remove('active');
+            } else {
+                selectedTags.push(tag);
+                tagElement.classList.add('active');
+            }
+            displayRecommendations();
+        }
+
+        function displayRecommendations() {
+            const recommendedBooksContainer = document.getElementById('recommended-books');
+            recommendedBooksContainer.innerHTML = ""; // Clear previous recommendations
+
+            const recommendedBooks = allBooks.filter(book =>
+                book.tags.some(tag => selectedTags.includes(tag))
+            );
+
+            if (recommendedBooks.length > 0) {
+                recommendedBooks.forEach(book => {
+                    const bookElement = document.createElement('div');
+                    bookElement.classList.add('book-card');
+                    bookElement.innerHTML = `
+                        <h2>${book.title}</h2>
+                        <p><strong>Author:</strong> ${book.author}</p>
+                        <p><strong>Year:</strong> ${book.year}</p>
+                    `;
+                    recommendedBooksContainer.appendChild(bookElement);
+                });
+            } else {
+                recommendedBooksContainer.innerHTML = "<p>No books match your current selection.</p>";
+            }
+        }
+    </script>
+</body>
+</html>

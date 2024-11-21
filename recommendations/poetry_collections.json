@@ -1,0 +1,368 @@
+  [
+    {
+      "title": "Citizen: An American Lyric",
+      "author": "Claudia Rankine",
+      "year": 2014,
+      "tags": ["Race", "Social Justice", "Identity", "Activism"]
+    },
+    {
+      "title": "The Tradition",
+      "author": "Jericho Brown",
+      "year": 2019,
+      "tags": ["Love", "Trauma", "Violence", "Healing"]
+    },
+    {
+      "title": "Night Sky with Exit Wounds",
+      "author": "Ocean Vuong",
+      "year": 2016,
+      "tags": ["War", "Family", "Memory", "Loss"]
+    },
+    {
+      "title": "Don’t Call Us Dead",
+      "author": "Danez Smith",
+      "year": 2017,
+      "tags": ["Race", "LGBTQ+", "Mortality", "Resilience"]
+    },
+    {
+      "title": "Calling a Wolf a Wolf",
+      "author": "Kaveh Akbar",
+      "year": 2017,
+      "tags": ["Addiction", "Recovery", "Survival", "Transformation"]
+    },
+    {
+      "title": "Life on Mars",
+      "author": "Tracy K. Smith",
+      "year": 2011,
+      "tags": ["Space", "Grief", "Existentialism", "Wonder"]
+    },
+    {
+      "title": "Whereas",
+      "author": "Layli Long Soldier",
+      "year": 2017,
+      "tags": ["Indigenous Rights", "Politics", "Resistance", "Reclamation"]
+    },
+    {
+      "title": "Look",
+      "author": "Solmaz Sharif",
+      "year": 2016,
+      "tags": ["War", "Language", "Loss", "Surveillance"]
+    },
+    {
+      "title": "Incarnadine",
+      "author": "Mary Szybist",
+      "year": 2013,
+      "tags": ["Religion", "Love", "Sacred", "Interconnection"]
+    },
+    {
+      "title": "Soft Science",
+      "author": "Franny Choi",
+      "year": 2019,
+      "tags": ["Technology", "Identity", "Femininity", "Hybrid Self"]
+    },
+    {
+      "title": "Deaf Republic",
+      "author": "Ilya Kaminsky",
+      "year": 2019,
+      "tags": ["War", "Silence", "Resistance", "Empathy"]
+    },
+    {
+      "title": "Autobiography of Red",
+      "author": "Anne Carson",
+      "year": 2000,
+      "tags": ["Myth", "Love", "Queerness", "Transformation"]
+    },
+    {
+      "title": "Eye Level",
+      "author": "Jenny Xie",
+      "year": 2018,
+      "tags": ["Travel", "Self", "Observation", "Solitude"]
+    },
+    {
+      "title": "Obit",
+      "author": "Victoria Chang",
+      "year": 2020,
+      "tags": ["Grief", "Loss", "Mourning", "Legacy"]
+    },
+    {
+      "title": "The Virginia State Colony for Epileptics and Feebleminded",
+      "author": "Molly McCully Brown",
+      "year": 2017,
+      "tags": ["Disability", "History", "Marginalization", "Injustice"]
+    },
+    {
+      "title": "Crush",
+      "author": "Richard Siken",
+      "year": 2005,
+      "tags": ["Love", "Desire", "Obsession", "Violence"]
+    },
+    {
+      "title": "Bright Dead Things",
+      "author": "Ada Limón",
+      "year": 2015,
+      "tags": ["Nature", "Family", "Resilience", "Identity"]
+    },
+    {
+      "title": "American Sonnets for My Past and Future Assassin",
+      "author": "Terrance Hayes",
+      "year": 2018,
+      "tags": ["Race", "Politics", "Mortality", "Survival"]
+    },
+    {
+      "title": "The Carrying",
+      "author": "Ada Limón",
+      "year": 2018,
+      "tags": ["Nature", "Healing", "Grief", "Acceptance"]
+    },
+    {
+      "title": "Pilgrim Bell",
+      "author": "Kaveh Akbar",
+      "year": 2021,
+      "tags": ["Religion", "Addiction", "Redemption", "Belonging"]
+    },
+    {
+      "title": "Split Tooth",
+      "author": "Tanya Tagaq",
+      "year": 2018,
+      "tags": ["Indigenous Culture", "Survival", "Mythology", "Brutality"]
+    },
+    {
+      "title": "Shiver",
+      "author": "Junot Díaz",
+      "year": 2004,
+      "tags": ["Immigrant Experience", "Love", "Trauma", "Hope"]
+    },
+    {
+      "title": "How to Be Drawn",
+      "author": "Terrance Hayes",
+      "year": 2015,
+      "tags": ["Art", "Identity", "Self-Exploration", "Race"]
+    },
+    {
+      "title": "Love, an Index",
+      "author": "Rebecca Lindenberg",
+      "year": 2012,
+      "tags": ["Love", "Loss", "Nostalgia", "Longing"]
+    },
+    {
+      "title": "Feast",
+      "author": "Ina Cariño",
+      "year": 2023,
+      "tags": ["Filipino Culture", "Family", "Belonging", "Transformation"]
+    },
+    {
+      "title": "Rapture",
+      "author": "Carol Ann Duffy",
+      "year": 2005,
+      "tags": ["Love", "Sexuality", "Longing", "Transformation"]
+    },
+    {
+      "title": "The Beauty",
+      "author": "Jane Hirshfield",
+      "year": 2015,
+      "tags": ["Nature", "Life", "Contemplation", "Wonder"]
+    },
+    {
+      "title": "Wade in the Water",
+      "author": "Tracy K. Smith",
+      "year": 2018,
+      "tags": ["Race", "History", "Redemption", "Justice"]
+    },
+    {
+      "title": "The Book of Frank",
+      "author": "CAConrad",
+      "year": 2010,
+      "tags": ["Queerness", "Trauma", "Transcendence", "Absurdity"]
+    },
+    {
+      "title": "A Fortune for Your Disaster",
+      "author": "Hanif Abdurraqib",
+      "year": 2019,
+      "tags": ["Loss", "Pop Culture", "Healing", "Memory"]
+    },
+    {
+      "title": "Bestiary",
+      "author": "Donika Kelly",
+      "year": 2016,
+      "tags": ["Love", "Identity", "Mythology", "Transformation"]
+    },
+    {
+      "title": "The Black Maria",
+      "author": "Aracelis Girmay",
+      "year": 2016,
+      "tags": ["Race", "Grief", "Mourning", "Justice"]
+    },
+    {
+      "title": "Bodymap",
+      "author": "Leah Lakshmi Piepzna-Samarasinha",
+      "year": 2015,
+      "tags": ["Disability", "Queer Identity", "Survival", "Resilience"]
+    },
+    {
+      "title": "Still Life with Two Dead Peacocks and a Girl",
+      "author": "Diane Seuss",
+      "year": 2018,
+      "tags": ["Art", "Mortality", "Perspective", "Beauty"]
+    },
+    {
+      "title": "Citizen Illegal",
+      "author": "José Olivarez",
+      "year": 2018,
+      "tags": ["Immigration", "Identity", "Belonging", "Resilience"]
+    },
+    {
+      "title": "Time Is a Mother",
+      "author": "Ocean Vuong",
+      "year": 2022,
+      "tags": ["Grief", "Family", "Mourning", "Memory"]
+    },
+    {
+      "title": "American Arithmetic",
+      "author": "Natalie Diaz",
+      "year": 2020,
+      "tags": ["Indigenous Identity", "Love", "Survival", "Conflict"]
+    },
+    {
+      "title": "The Sobbing School",
+      "author": "Joshua Bennett",
+      "year": 2016,
+      "tags": ["Black Identity", "Education", "Grief", "Empowerment"]
+    },
+    {
+      "title": "The Crown Ain’t Worth Much",
+      "author": "Hanif Abdurraqib",
+      "year": 2016,
+      "tags": ["Race", "Loss", "Resilience", "Urban Life"]
+    },
+    {
+      "title": "When My Brother Was an Aztec",
+      "author": "Natalie Diaz",
+      "year": 2012,
+      "tags": ["Family", "Addiction", "Resilience", "Survival"]
+    },
+    {
+      "title": "The Octopus Museum",
+      "author": "Brenda Shaughnessy",
+      "year": 2019,
+      "tags": ["Environment", "Future", "Dystopia", "Ecological Crisis"]
+    },
+    {
+      "title": "The World Keeps Ending, and the World Goes On",
+      "author": "Franny Choi",
+      "year": 2022,
+      "tags": ["Apocalypse", "Love", "Resilience", "Memory"]
+    },
+    {
+      "title": "Oceanic",
+      "author": "Aimee Nezhukumatathil",
+      "year": 2018,
+      "tags": ["Nature", "Love", "Wonder", "Connection"]
+    },
+    {
+      "title": "Electric Arches",
+      "author": "Eve L. Ewing",
+      "year": 2017,
+      "tags": ["Black Identity", "Imagination", "Empowerment", "Resistance"]
+    },
+    {
+      "title": "Dream Work",
+      "author": "Mary Oliver",
+      "year": 2002,
+      "tags": ["Nature", "Healing", "Reflection", "Acceptance"]
+    },
+    {
+      "title": "Bicycle in a Ransacked City: An Elegy",
+      "author": "Andrés Cerpa",
+      "year": 2019,
+      "tags": ["Love", "Grief", "Loss", "Memory"]
+    },
+    {
+      "title": "Bone",
+      "author": "Yrsa Daley-Ward",
+      "year": 2017,
+      "tags": ["Family", "Trauma", "Healing", "Survival"]
+    },
+    {
+      "title": "Helium",
+      "author": "Rudy Francisco",
+      "year": 2017,
+      "tags": ["Love", "Race", "Vulnerability", "Resilience"]
+    },
+    {
+      "title": "A Sand Book",
+      "author": "Ariana Reines",
+      "year": 2019,
+      "tags": ["Environment", "Apocalypse", "Endurance", "Spirituality"]
+    },
+    {
+      "title": "The Performance of Becoming Human",
+      "author": "Daniel Borzutzky",
+      "year": 2016,
+      "tags": ["Politics", "Violence", "Injustice", "Resistance"]
+    },
+    {
+      "title": "Night Garden",
+      "author": "Stephen Dobyns",
+      "year": 2005,
+      "tags": ["Loss", "Mortality", "Reflection", "Acceptance"]
+    },
+    {
+      "title": "Magical Negro",
+      "author": "Morgan Parker",
+      "year": 2019,
+      "tags": ["Race", "Pop Culture", "Identity", "Irony"]
+    },
+    {
+      "title": "A Cruelty Special to Our Species",
+      "author": "Emily Jungmin Yoon",
+      "year": 2018,
+      "tags": ["War", "Women", "Violence", "Survival"]
+    },
+    {
+      "title": "If They Come in the Morning",
+      "author": "Assata Shakur",
+      "year": 2006,
+      "tags": ["Incarceration", "Race", "Justice", "Resistance"]
+    },
+    {
+      "title": "Human Hours",
+      "author": "Catherine Barnett",
+      "year": 2018,
+      "tags": ["Domestic Life", "Introspection", "Silence", "Loneliness"]
+    },
+    {
+      "title": "Bluets",
+      "author": "Maggie Nelson",
+      "year": 2009,
+      "tags": ["Color", "Grief", "Obsession", "Love"]
+    },
+    {
+      "title": "The New Testament",
+      "author": "Jericho Brown",
+      "year": 2014,
+      "tags": ["Faith", "Identity", "Redemption", "Transformation"]
+    },
+    {
+      "title": "Our Andromeda",
+      "author": "Brenda Shaughnessy",
+      "year": 2012,
+      "tags": ["Family", "Disability", "Resilience", "Love"]
+    },
+    {
+      "title": "Feel Free",
+      "author": "Nick Laird",
+      "year": 2018,
+      "tags": ["Relationships", "Self", "Humor", "Observation"]
+    },
+    {
+      "title": "Hold Your Own",
+      "author": "Kate Tempest",
+      "year": 2014,
+      "tags": ["Mythology", "Gender", "Transformation", "Self-Discovery"]
+    },
+    {
+      "title": "Thrust",
+      "author": "Heather Derr-Smith",
+      "year": 2017,
+      "tags": ["Trauma", "Resilience", "Healing", "Growth"]
+    }
+  ]  
