@@ -6,10 +6,12 @@
     <title>AI Experiments Portfolio</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
 <body>
     <header>
-        <img src="header.png" alt="Poet's cabin landscape header">
+        <img src="A_pencil-drawn_landscape_extending_beyond_the_orig.png" alt="Poet's jungle cabin landscape header">
         <nav>
             <ul>
                 <li><a href="#textual">Textual Experiments</a></li>
@@ -28,6 +30,32 @@
         <section id="visual">
             <h2>Visual Experiments</h2>
             <p>These visual experiments demonstrate the potential of AI in generating art, manipulating images, and creating imaginative visual representations that blur the lines between human and artificial creativity.</p>
+            <div class="carousel">
+                <div class="carousel-container">
+                    <div class="carousel-slide">
+                        <img src="image1.jpg" alt="Visual Experiment 1">
+                        <p class="caption">Visual Experiment 1: AI-generated Landscape</p>
+                    </div>
+                    <div class="carousel-slide">
+                        <img src="image2.jpg" alt="Visual Experiment 2">
+                        <p class="caption">Visual Experiment 2: Abstract Composition</p>
+                    </div>
+                    <div class="carousel-slide">
+                        <img src="image3.jpg" alt="Visual Experiment 3">
+                        <p class="caption">Visual Experiment 3: Surreal Architecture</p>
+                    </div>
+                    <div class="carousel-slide">
+                        <img src="image4.jpg" alt="Visual Experiment 4">
+                        <p class="caption">Visual Experiment 4: Generative Portrait</p>
+                    </div>
+                    <div class="carousel-slide">
+                        <img src="image5.jpg" alt="Visual Experiment 5">
+                        <p class="caption">Visual Experiment 5: Nature-Inspired Pattern</p>
+                    </div>
+                </div>
+                <button class="carousel-prev">&#10094;</button>
+                <button class="carousel-next">&#10095;</button>
+            </div>
         </section>
 
         <section id="procedural">
@@ -39,5 +67,30 @@
     <footer>
         <p>&copy; 2024 AI Experiments Portfolio. All rights reserved.</p>
     </footer>
+
+    <script>
+        $(document).ready(function() {
+            let currentIndex = 0;
+            const slides = $('.carousel-slide');
+            const totalSlides = slides.length;
+
+            function showSlide(index) {
+                slides.hide();
+                slides.eq(index).show();
+            }
+
+            $('.carousel-next').click(function() {
+                currentIndex = (currentIndex + 1) % totalSlides;
+                showSlide(currentIndex);
+            });
+
+            $('.carousel-prev').click(function() {
+                currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+                showSlide(currentIndex);
+            });
+
+            showSlide(currentIndex);
+        });
+    </script>
 </body>
 </html>
