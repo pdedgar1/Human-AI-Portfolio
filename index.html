@@ -44,9 +44,9 @@
             <h2>Visual Experiments</h2>
             <div class="card" id="visual-card">
                 <h3>Experiment 1: Visual Interpretation of Poetry</h3>
-                <p>Hover through these images, generated with Dalle-2 through ChatGPT, that illustrate a line of Emily Dickinson's poem "I heard a fly buzz - when I died -".</p>
-                <div class="carousel">
-                    <div class="carousel-slide">
+                <p>Click through these images, generated with Dalle-2 through ChatGPT, that illustrate a line of Emily Dickinson's poem "I heard a fly buzz - when I died -".</p>
+                <div class="carousel-container">
+                    <div class="carousel-slide active">
                         <img src="visual/1.png" alt="Dickinson poem interpretation 1">
                         <p class="caption">"I heard a fly buzz - When I died -"</p>
                     </div>
@@ -91,6 +91,10 @@
                         <p class="caption">"And then the Windows failed - and then / I could not see to see -"</p>
                     </div>
                 </div>
+                <div class="carousel-navigation">
+                    <button id="prev-slide">Previous</button>
+                    <button id="next-slide">Next</button>
+                </div>
             </div>
         </section>
 
@@ -117,5 +121,28 @@
         <p>&copy; 2024 AI Experiments Portfolio. All rights reserved.</p>
     </footer>
 
+    <script>
+        $(document).ready(function() {
+            let currentIndex = 0;
+            const slides = $('.carousel-slide');
+
+            function showSlide(index) {
+                slides.removeClass('active');
+                slides.eq(index).addClass('active');
+            }
+
+            $('#next-slide').click(function() {
+                currentIndex = (currentIndex + 1) % slides.length;
+                showSlide(currentIndex);
+            });
+
+            $('#prev-slide').click(function() {
+                currentIndex = (currentIndex - 1 + slides.length) % slides.length;
+                showSlide(currentIndex);
+            });
+
+            showSlide(currentIndex);
+        });
+    </script>
 </body>
 </html>
