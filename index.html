@@ -29,15 +29,14 @@
                     <h3>Experiment 1: Generative Poetry</h3>
                     <p>This experiment explores the use of AI to generate poetry based on various themes and styles, reflecting both human input and machine creativity.</p>
                 </div>
-                <div class="card" id="card2" style="display:none;">
+                <div class="card" id="card2">
                     <h3>Experiment 2: Interactive Storytelling</h3>
                     <p>In this experiment, AI contributes to creating interactive storytelling experiences where the reader can choose their own adventure.</p>
                 </div>
-                <div class="card" id="card3" style="display:none;">
+                <div class="card" id="card3">
                     <h3>Experiment 3: Haibun Generative Art</h3>
                     <p>This experiment delves into generating haibun, a Japanese form that blends prose and haiku, to capture transient moments in a narrative style.</p>
                 </div>
-                
             </div>
         </section>
 
@@ -67,8 +66,6 @@
                         <p class="caption">Visual Experiment 5: Nature-Inspired Pattern</p>
                     </div>
                 </div>
-                <button class="carousel-prev">&#10094;</button>
-                <button class="carousel-next">&#10095;</button>
             </div>
         </section>
 
@@ -82,10 +79,6 @@
                 <div class="card" id="proc-card2">
                     <h3>Experiment 2: Scouting Minigame</h3>
                     <p>Play our AI-powered scouting minigame to discover and interact with procedural storytelling elements. <a href="game/index.html">Start the scouting minigame</a>.</p>
-                </div>
-                <div class="card-navigation">
-                    <button class="card-prev">&#10094; Previous</button>
-                    <button class="card-next">Next &#10095;</button>
                 </div>
             </div>
         </section>
@@ -118,50 +111,6 @@
             });
 
             showSlide(currentIndex);
-
-            // Card navigation functionality for textual section
-            let currentCardIndex = 0;
-            const cards = $('#textual .card');
-            const totalCards = cards.length;
-
-            function showCard(index) {
-                cards.hide();
-                cards.eq(index).show();
-            }
-
-            $('.card-next').click(function() {
-                currentCardIndex = (currentCardIndex + 1) % totalCards;
-                showCard(currentCardIndex);
-            });
-
-            $('.card-prev').click(function() {
-                currentCardIndex = (currentCardIndex - 1 + totalCards) % totalCards;
-                showCard(currentCardIndex);
-            });
-
-            showCard(currentCardIndex);
-
-            // Card navigation functionality for procedural section
-            let currentProcCardIndex = 0;
-            const procCards = $('#procedural .card');
-            const totalProcCards = procCards.length;
-
-            function showProcCard(index) {
-                procCards.hide();
-                procCards.eq(index).show();
-            }
-
-            $('#procedural .card-next').click(function() {
-                currentProcCardIndex = (currentProcCardIndex + 1) % totalProcCards;
-                showProcCard(currentProcCardIndex);
-            });
-
-            $('#procedural .card-prev').click(function() {
-                currentProcCardIndex = (currentProcCardIndex - 1 + totalProcCards) % totalProcCards;
-                showProcCard(currentProcCardIndex);
-            });
-
-            showProcCard(currentProcCardIndex);
         });
     </script>
 </body>

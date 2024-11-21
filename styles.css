@@ -86,11 +86,14 @@ footer {
     background-color: #f8f6f0; /* Paper off-white background */
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
 }
 
 .carousel-container {
     display: flex;
-    transition: transform 0.5s ease;
+    gap: 10px;
 }
 
 .carousel-slide {
@@ -110,6 +113,11 @@ footer {
 .carousel-slide:hover {
     width: 100%;
     height: 400px;
+    transition-delay: 0.5s; /* Half-second delay after hover */
+}
+
+.carousel-slide:hover img {
+    transition-delay: 0.5s; /* Half-second delay after hover */
 }
 
 .carousel-prev, .carousel-next {
