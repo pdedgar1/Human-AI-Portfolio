@@ -87,6 +87,12 @@ footer {
     margin: 0 auto;
 }
 
+.card #visual-card {
+    overflow: hidden;
+    max-width: 100%;
+    max-height: 500px;
+}
+
 .carousel-slide {
     display: none;
     text-align: center;
