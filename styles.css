@@ -1,5 +1,7 @@
 /* styles.css for AI Experiments Portfolio */
 
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+
 body {
     font-family: 'Merriweather', serif;
     background-color: #f5f5dc; /* Light beige background for a warm, elegant feel */
