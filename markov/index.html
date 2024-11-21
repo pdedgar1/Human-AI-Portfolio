@@ -59,6 +59,7 @@
             padding: 15px;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: left;
         }
 
         .generated-text {
@@ -67,6 +68,7 @@
             background-color: #f9f9f9;
             margin-bottom: 10px;
             white-space: pre-wrap;
+            text-align: left;
         }
     </style>
 </head>
@@ -75,7 +77,7 @@
         <h1>Markov Chain Text Generator</h1>
     </header>
     <div class="container">
-        <p>Press the button below to generate predictive text using a Markov chain based on Swinburne's works.</p>
+        <p>Press the button below to generate predictive text using a Markov chain based on PD Edgar's works.</p>
         <button onclick="generateText()">Generate Text</button>
         <div id="output"></div>
     </div>
@@ -108,7 +110,7 @@
 
         // Function to generate text
         function generateText() {
-            const maxWords = 50; // Number of words to generate
+            const maxWords = 100; // Increase number of words to generate for longer output
             let generatedWords = [];
 
             // Start with a random key from the Markov chain
