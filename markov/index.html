@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markov Chain Text Generator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Merriweather', serif;
+            background-color: #f5f5dc;
+            color: #333333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333333;
+            color: #f5f5dc;
+            width: 100%;
+        }
+
+        .container {
+            background-color: #f8f6f0;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            margin: 20px;
+            text-align: center;
+        }
+
+        button {
+            background-color: #444444;
+            color: #f5f5dc;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            border-radius: 5px;
+        }
+
+        button:hover {
+            background-color: #333333;
+        }
+
+        #output {
+            margin-top: 20px;
+            font-size: 1.1em;
+            background-color: #ffffff;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .generated-text {
+            padding: 10px;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+            margin-bottom: 10px;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Markov Chain Text Generator</h1>
+    </header>
+    <div class="container">
+        <p>Press the button below to generate predictive text using a Markov chain based on Swinburne's works.</p>
+        <button onclick="generateText()">Generate Text</button>
+        <div id="output"></div>
+    </div>
+    <script>
+        const markovChain = {};
+        let chainLength = 2;
+        let swinburneText = "";
+
+        // Fetch text from compilation.txt
+        fetch('compilation.txt')
+            .then(response => response.text())
+            .then(data => {
+                swinburneText = data;
+                buildMarkovChain(swinburneText);
+            })
+            .catch(error => console.error('Error loading text:', error));
+
+        // Build the Markov chain while preserving line breaks
+        function buildMarkovChain(text) {
+            const words = text.split(/(\s+|\n)/);  // Split on spaces and newlines
+            for (let i = 0; i < words.length - chainLength; i++) {
+                const key = words.slice(i, i + chainLength).join('');
+                const nextWord = words[i + chainLength];
+                if (!markovChain[key]) {
+                    markovChain[key] = [];
+                }
+                markovChain[key].push(nextWord);
+            }
+        }
+
+        // Function to generate text
+        function generateText() {
+            const maxWords = 50; // Number of words to generate
+            let generatedWords = [];
+
+            // Start with a random key from the Markov chain
+            const keys = Object.keys(markovChain);
+            let currentKey = keys[Math.floor(Math.random() * keys.length)];
+            generatedWords = currentKey.split(' ');
+
+            // Generate words
+            for (let i = 0; i < maxWords - chainLength; i++) {
+                const nextWords = markovChain[currentKey];
+                if (!nextWords) break;
+                const nextWord = nextWords[Math.floor(Math.random() * nextWords.length)];
+                generatedWords.push(nextWord);
+                currentKey = generatedWords.slice(-chainLength).join('');
+            }
+
+            // Join words back together, preserving line breaks
+            const generatedText = generatedWords.join('').replace(/\n/g, '<br>');
+
+            // Create a new div for the generated text
+            const newTextDiv = document.createElement('div');
+            newTextDiv.className = 'generated-text';
+            newTextDiv.innerHTML = generatedText;
+
+            // Append the new text div to the output div
+            document.getElementById('output').appendChild(newTextDiv);
+        }
+    </script>
+</body>
+</html>
