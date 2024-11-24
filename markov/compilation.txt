@@ -62,7 +62,7 @@ I absolutely see a roadblock in front of me in terms of writing about internatio
 What are your goals for this course?
 I want to generate a lot of work period I want to develop discipline and fearlessness towards my writing practice and the subject of my writing. I went to put out some really cool forms and essays, and I want to learn from my peers.
 What are your goals for the next few years as a writer?
-I want to grow in my understanding of digital media so that I could carry a digital exhibit or a digital chapbook, which involves me learning coding. I also want to become much better at traditional forms and learn more deeply about poetry in English, because while I learned so much about poets and specific works in high school, and learned a lot about Spanish grammar and Spanish poetry very deeply, I didn't really learn the mechanics of poetry super well, or why certain kinds of poetry are so well received in academic journals and prominent journals. I want to learn more about the industry, not so that I can ingratiate myself with Adroit or something, but just so that I can understand why what’s popular is popular.
+I want to grow in my understanding of digital media so that I could carry a digital exhibit or a digital chapbook, which involves me learning coding. I also want to become much better at traditional forms and learn more deeply about poetry in English, because while I learned so much about poets and specific works in high school, and learned a lot about Spanish grammar and Spanish poetry very deeply, I didn't really learn the mechanics of poetry super well, or why certain kinds of poetry are so well received in academic journals and prominent journals. I want to learn more about the industry, not so that I caningratiate myself with Adroit or something, but just so that I can understand why what’s popular is popular.
 What is your image of the writer you want to become? 
 I want my life's work to be a collection of books and essays that really speak to the present, and speak to helping people work through life and suffering. While I can be critical, I see myself more as a normative scholar, pointing up at what should it be, rather than pointing out all the ways that the world isn't like that. I want more people to write poetry, and I would love to be a teacher or community leader who also has books. I want to live somewhere that makes me want to write, like my hometown or in Central America.
 What are the subjects and themes you want to explore next as a writer? 
@@ -226,7 +226,7 @@ ENTRADA / ENTRY
 There’s this picture my mom posts on Facebook every year to commemorate the anniversary of the date we left everything in Florida to become missionaries in Nicaragua. This year, it was 17 years ago. In the photograph, in blown-up low-resolution, I’m draped over four suitcases on the curb, “guarding” them, looking back at the camera. Emma, my sister, is perched on top of one of the luggage, squinting with a babytooth smile through her pink plastic glasses. I can't even really remember that first flight; I would have been about 8 or 9. Emma was even younger than that, obviously, ‘cause she's younger than me. Part of the trouble with my memory is that I don’t remember much about that specific trip, because I best remember the constants—the airports—and the slow changes made to them. How Miami was under construction for so many years, the gradual addition of the do-it-yourself customs kiosks, global entry, and TSA pre-check in Atlanta, Miami, and Fort Lauderdale: Those weren't always there. What's remained true, to my memory, is the $10 entry fee to come into Nicaragua on a tourist visa. A tourist visa is worth 3 months, so a lot of Europeans backpack there, and the small talk on the plane is usually worth it. The problem is that I don’t remember anything I said—the memories depersonalize, the moments are disembodied.
 SALIDA / EXIT 
 Leaving the country is even easier than getting in, for Americans. Always have to add that caveat. For Americans. I remember walking past lines of Nicaraguans at the American embassy hoping to get an exit visa to the US. In the airport, once you've checked in at the counter, you walk past your last chance to buy generic souvenirs from artisans who have kiosks in the airport lobby, and past the food court, and past then a circle of 10 or 12 busts of major Nicaraguan figures, in-between two high-hung, wall-length portraits: one of Ruben Dario, the modernist poet who I’m told memorized the dictionary as a child, and one of Augusto Sandino, the generations-removed revolutionary figure for whom the currently-in-power Sandinista party is named.
-ADUANA DE INGRESO O SALIDA / ARRIVAL OR DEPARTURE CUSTOMS 
+ADUANA DEingRESO O SALIDA / ARRIVAL OR DEPARTURE CUSTOMS 
 The Sandinista party is the reason for the following travel advisory issued by the US Embassy in Nicaragua: Country Summary: The government of Nicaragua arbitrarily enforces laws for political purposes. Throughout Nicaragua, government officials and law enforcement continue to target those opposed to the rule of President Ortega. The government and its affiliated groups have been reported to:…. • Arbitrarily seize and/or search private property including personal phones and computers for anti-government content. • Arbitrarily charged individuals with terrorism money laundering, and organized crime offenses for political reasons. After you recover your luggage from baggage claim, there’s one last room we tense up to walk through before we hit the curb, pickup lanes, and parking lot. It’s a side room to the left, past the duty-free liquor stores selling the national brand of rum, Flor de Caña. In it are four conveyor belt x-ray machines, through which every bag, not just your carry-ons, must be processed, and it’s the government’s last chance to seize the goods in your luggage before you enter the country. It’s happened to us before, but never as badly as has happened to others—laptops and cameras, electronics and valuables confiscated, reasonlessly, held in indeterminate detention. Friends have worked for weeks, driving out to the airport warehouses, in attempts to get their luggage released.
 NOMBRES (GIVEN NAME) 
 I don't have a very transferable name. The first one, Peter, is translateable, but not transliterable. Pet-err, I’ve been called by a few. Pedro is what I ask most Spanish-speakers to call me, but I’m not allowed to call myself that to the customs agent. I have to be Pet-air, because that’s what’s written down. Not that I’m blaming anybody for the hang-up. It’s our fault, as English-speakers, that our vowels have so many pronunciations. Just in that last sentence, the capital ‘E’ squealed ‘eee’, married in an ‘A’ to keep it going in “speak,” married down with an ‘R’ for an ‘urr,’ closed out its own category (“vowel”) in a cough of an ‘eh,’ and checked out entirely from the word “have.” One time, a Nicaraguan who knew me transliterated as “Pee-tair” made a wooden keychain for me with my phonetic name wood-burned into it, “Pitter.” So don’t even get me started on my middle name, Douglas. Saying it in Spanish almost approximates its Gaelic origin, dubh glas, “dark stream,” and the irony of this is not lost on me, that my given names translate to “rock [from] dark stream.” Especially since this wasn’t intentional. Douglas is just my dead grandad, who died the year before I was born. Peter’s a storybook character. 
@@ -682,7 +682,7 @@ The fabric of NicaTime: 10.28.19 7:23 p.m.
  
 previously  One Hour Late,  revised with enjambment strategy
 after Valerie Wallace  
-T HE OLD WOMAN ANDTH E OLDWOMAN. 
+the OLD WOMAN ANDTH E OLDWOMAN. 
 muc h wil l be said of these mothers, these great grandmothers. 
 a shadow moves. it is their other lives, 
 stalking.
@@ -724,7 +724,7 @@ f or the day their hands yel low.
 i am no stranger to this process, the body 's stiff ening.
 my gr andmothers see the same masseuse. 
   
-it was a small town, once. now in t wo, quic kly-blurr ing corners, 
+it was a small town, once. now in t wo, quic kly-blurring corners, 
 the y still live off the same road as the other, but c al led it by different names
   
   
@@ -1041,7 +1041,7 @@ down to more lived-in T V room.
 F irst bathroom I had a real skin-
 c are routine in. F irst tr ied an 
 oatmeal L ush-brand shampoo, 
-realiz ed how loud I was play ing 
+realiz ed how loud I was playing 
 Nic ki, Janel le,Tierr a & John, 
 three sy noptic gospels & an odd 
 man out, as al way s--I read f our 
@@ -1441,7 +1441,7 @@ ever since that
 first 
 command from God 
 i do the work of 
-weed ing 
+weeding 
 ,, of 
 famine 
 of 
@@ -1511,7 +1511,7 @@ flowers'
 fluttering
 wind 's
 diagonally
-sway ing
+swaying
 necktie
 holding it
 for a w hile
@@ -1565,7 +1565,7 @@ foretaste
 off sword one
 off belt
 l ike furry tail
-off t he wall  
+off the wall  
 blunted metal
 food chain 
 at another camp
@@ -1578,44 +1578,44 @@ frame,
 bowl ?
 a lot
 halo
-l it hograph prints
+lit hograph prints
 end to reach
 concertos to celebrate mass death.  
-O d e to Heimweh
+Ode to Heimweh
 have you lost track 
-of yours elf again? 
+of yourself again? 
 it's okay. 
-it wasn't rea l ly t hat you misplace d t he time;
+it wasn't really that you misplaced the time;
 you just were just here,
-le aning up against t hat counter
-in t he kitchen b ack home, 
-e at ing mac and che ese
-st raight f rom p ot
-li ke you us e d to. 
-you c an st il l s e e it, c an't you? 
-t he spe ck le d floors 
+leaning up against that counter
+in the kitchen back home, 
+eating mac and che ese
+straight f rom p ot
+like you us e d to. 
+you can st il l s e e it, c an't you? 
+the spe ck le d floors 
 you wou ld lay dow n on after b eing outside,
-t he bro om next to t he fr idge 
-t hat you'd us e to cle an up 
-t he ceramic shards of a broken dish
-c aref ul ly, b e caus e you were b arefoot
+the bro om next to the fridge 
+that you'd us e to cle an up 
+the ceramic shards of a broken dish
+carefully, because you were barefoot
 and c an't you smel l it? 
-t he hot, so apy ste am 
+the hot, so apy ste am 
 of clean dishes,
-and t he oily bre at h of pizza. 
-or t he 
+and the oily bre at h of pizza. 
+or the 
 p ssst
  a coke ma kes 
 b efore you pour Fres c a 
-and Fant a Uva into t he s ame cup 
+and Fant a Uva into the s ame cup 
 and dr in k it, g r inning
 D o you rememb er what the microwave timer s ounds like? 
 How you and your best f r iend pu l le d s o hard to s ep arate 
-t he Tupper ware lid from t he g l ass dish? 
-And t he crash of t he silver ware drawer when you hit your hip on it  
+the Tupper ware lid from the g l ass dish? 
+And the crash of the silver ware drawer when you hit your hip on it  
 There you are 
-Using the words you s ave d just for t he o ccasion   
-was it t he rig ht hip, or t he left?
+Using the words you s ave d just for the o ccasion   
+was it the rig ht hip, or the left?
 How go od it is to k now, after a l l this t ime, 
 t hat you rememb er
 t hat you've brought yours elf w it h you
@@ -1662,7 +1662,7 @@ f or content mil ls   but
   
 I think of people I love 
 as famous. I am so close
-to declar ing my self to be 
+to declaring my self to be 
   
 a mor alist. Af ter storms, the ground
 is br ind le with the wash of pine dust;
@@ -1688,43 +1688,46 @@ an earthquake for a month, add three for civil unrest,
 and now, for six, disease. My  plans-change  family normal.
 I say this not as  shame,  it's not as a  look at us, 
 I say this to say  welcome.  Welcome to our normal.   
-First dr aft of an acrosti c el e gy 
-rememb er t he cool t i le of the eng lish bui lding? 
-we b ot h sat on it
-across from each ot her the d ay we met before 
-sp anish and eng lish
-w r it ing b e c ame our pr imar y me et ing me dium
-over t he summer
-s ending missives t hat got longer, longer, deep er
-ne ver mind t he dut ies
-of c amp and fami ly and she-who-must-not-b e-name d.
-no way i'd've pre dicte d you wou ld be t he one 
-r iding to a l ab ama
-       
-ad ay'sj our ne ywit hme
-re c apping our summers and exp ounding
-  
-w hat music gave us life
-our love langu ages, and how we each drove
-  
-sp e ed-limit-cons cious
-w hat a time t hat was! zero to one hundred 
-  
-on ly t hree ye ars in now
-st i ll you k now more of me t han most pe ople
- 
-neig hb ors, f r iends 
-or ro ommates. you've re ad more of my p oet r y, to o.
-now, a crucible, a s chism, emot iona l chasm
-  
-re a lizing , re ckoning,
-       
-and yet,f r iendship
-re ad, let po et ry do t he he av y lifting , if you c an 
-w r ite, when re ady 
-agap e, phi li a, eros, storge: loves, trample d.
-  
-s ome day to gent ly return.  
+First Draft of an Acrostic Elegy
+
+Remember the cool tile of the English building?
+We both sat on it,
+across from each other the day we met before
+Spanish and English.
+Writing became our primary meeting medium
+over the summer,
+sending missives that got longer, longer, deeper.
+
+Never mind the duties
+of camp and family and she-who-must-not-be-named.
+No way I’d’ve predicted you would be the one
+riding to Alabama—
+
+A day’s journey with me,
+recapping our summers and expounding
+
+what music gave us life,
+our love languages, and how we each drove
+
+speed-limit-conscious.
+What a time that was! Zero to one hundred
+
+only three years in now—
+still, you know more of me than most people:
+
+neighbors, friends,
+or roommates. You’ve read more of my poetry, too.
+Now, a crucible, a schism, emotional chasm—
+
+realizing, reckoning.
+
+And yet, friendship.
+Read, let poetry do the heavy lifting, if you can.
+Write, when ready.
+
+Agape, philia, eros, storge: loves, trampled.
+
+Someday, to gently return.
 All summer I watched heat trace the scaffolding of thunderheads
 Beneath them dynamite and water jet cutters made all the earth a quarry
    But as I drove into the storm
@@ -1799,7 +1802,7 @@ eac h time the feelings
    
  
  are made
-c lear
+clear
   
  
         (confirmed in the negative)
@@ -1826,13 +1829,13 @@ haven't heard from you
 . 
          
 soft pain 
-of loss, hel lo
+of loss, hello
 .
-Yes, I 'm taking 
-this quite wel l.
+Yes, I'm taking 
+this quite well.
    
  
-   I hadn't realiz ed 
+   I hadn't realized 
 until now, 
    
       the infor mation delay
@@ -1854,13 +1857,13 @@ she may (1) join a small, roadside attraction outside of Or lando or Miami,
 (2) enlist in a county fair fried f oods competition, (3) serve as a universit y mascot, 
 or (4) enrol l as an apex predator in a gator retirement community, 
 on land we cal led moonscape,   lef tover from phosphate strip mining,
-on land we now cal l rec laimed,  stoc ked with ponds (so, mosquitos) and ˝sh.
+on land we now cal l rec laimed,  stoc ked with ponds (so, mosquitos) and fish.
 There she may bloat and glut, the r uler of all she sees, with no chal lenger.  
 At the moment, a false white horiz on of high, stormless c louds cuts
 across the sky, in late winter, slower than low, r aw, torn cotton bef ore a storm,
 and I hope I'm not the onl y one watching. It deserves your e yes, too. 
 The distance between a  thash & its thunder (to my dog it makes no di˙erence) 
-is ˝ve seconds per mile, more often 
+is five seconds per mile, more often 
 up 
 than away. Hair-r aising is the sense 
 of the just-before. Looking & listening & feeling are how to save your lif e.
@@ -1871,33 +1874,39 @@ My summers lifeguarding, no kids died, though I had to save some.
 As a counselor, it took me years to tune into my campers' hearts. 
 In both cases, splashing is louder, but silence is more dangerous.   
  
-B as ement Pip e work 
-B ene ath t he w indow i sit at e ver y day for cl ass
-Pic ture the w indow i sit at e ver y day for cl ass
-The picture w indow i sit at e ver y day for cl ass
-The picture d w indow i sit b ene at h to d ay for cl ass
-5 - pane d  w indow i sit under ne at h to d ay for cl ass
-The p ained  w indow, i se e under neat h, to d ay, fly carc ass es
-to d ay,  i se e 3 1 carc ass es underne at h t he paine d w indow
-tomor rrow, i se e 3 7 carc ass es underne at h t he paine d w indow
-e ver y day, i s e e more fly c arc ass es bene at h the 5 - p ane d window
-e ver y day, i sit for cl ass b ene at h the pic ture window
- to d ay, i sit for cl ass under ne at h t he pic ture window
-yesterd ay, i sl aye d flies dur ing cl ass ne ar t he picture w indow
-yes, i sl aye d t he flies at t he window, pic ture the c arc ass es
-pic ture t he c arc ass es, at t he w indow, of t he flies i sl aye d
-pie ces of t he flies I swatted in t he cracks of t he window
-pic ture t he flies a  - buzzing in the cracks of t he w indow
-pic ture t he fly swatter at t he cracks of t he window
-pic ture t he flies, swatte d, at t he cracks of the w indow
-pic ture t he flies at t he cracks,  t he se ams, of t he w indow
-pic ture t he fly c arc asses at t he se ams of t he window
-p erhaps the c arc asses w i l l fly away f rom t he se ams of t he window
-p erhaps the c arc asses w i l l fal l away f rom the p aine d window
-p erhaps the cl ass es wi l l move away f rom t he pic ture w indow
-p erhaps the less ons wi l l move away f rom t he window-pic ture
- t he carc ass es w i ll not
-B as ement Pip e work  
+Basement Pipework
+Beneath the window I sit at every day for class—
+Picture the window I sit at every day for class.
+The picture window I sit at every day for class.
+The pictured window I sit beneath today for class.
+The 5-paned window I sit underneath today for class.
+
+The pained window—
+I see underneath, today, fly carcasses.
+Today, I see 31 carcasses underneath the pained window.
+Tomorrow, I see 37 carcasses underneath the pained window.
+Every day, I see more fly carcasses beneath the 5-paned window.
+Every day, I sit for class beneath the picture window.
+
+Today, I sit for class underneath the picture window.
+Yesterday, I slayed flies during class near the picture window.
+Yes, I slayed the flies at the window—picture the carcasses.
+Picture the carcasses at the window of the flies I slayed.
+
+Pieces of the flies I swatted in the cracks of the window.
+Picture the flies a-buzzing in the cracks of the window.
+Picture the fly swatter at the cracks of the window.
+Picture the flies, swatted, at the cracks of the window.
+Picture the flies at the cracks, the seams, of the window.
+
+Picture the fly carcasses at the seams of the window.
+Perhaps the carcasses will fly away from the seams of the window.
+Perhaps the carcasses will fall away from the pained window.
+Perhaps the classes will move away from the picture window.
+Perhaps the lessons will move away from the window-picture.
+
+The carcasses will not.
+Basement Pipework  
 Hesperocorixa
 I've thought a while about 
     
@@ -1998,59 +2007,68 @@ between up
 and down
 debate our 
 existence  
-a d e ath
-a li ly asks
+a death
+a lily asks
 "you 
 
-B e aut y says
-she  tel l s  me  
-mom mid-hug
-to s ee her go, 
-r e a ll y  i mp o r ta nt
-c a lle d as p oet r y re ad
-t he y didn't tel l me
-shor t shifts
-i s at across f rom
-g randma sat[ ]in 
-[-]w rapp e d
-except for w hat's 
-a g r imacing  
-t he y don't tel l me how
-out of 
- where's Ah?  
-I  love  you   
- just  on e  m ore 
- m o v e 
-w hi s p e r ing
-the y weren't there
-for  gran dma
- are you bu sy?
-to  sto p
-to  sto p  s e arching
-th e  b e d
-watching her daughter
-in  b l an k e t s  f ai ling
-holding on[:] 
-to[o-]calm face,
-yellow
-or d e r
-a clot h covers her
-t he men lift, shift, drop
-  forehe ad k iss  
-gur ney comes in
-j et-lag ge d:
-eit her
-t hat we be t here, 
-come to t he hous e 
-s c anning her for
-for slow sighs
-in t he ar mchair 
-sle ep-die
-to ke ep he at t here
-Death's hand
-cousin-k iss e d:
-a b o dy be comes.  
-After another day  
+Beauty Says
+
+She tells me—
+Mom, mid-hug—
+to see her go,
+really important,
+called as poetry read.
+
+They didn’t tell me.
+Short shifts.
+I sat across from
+Grandma, sat [ ] in
+[-] wrapped,
+except for what’s
+grimacing.
+
+They don’t tell me how.
+Out of...
+Where’s Ah?
+
+“I love you,
+just one more move,”
+whispering.
+
+They weren’t there
+for Grandma.
+“Are you busy?”
+To stop,
+to stop searching—
+the bed.
+
+Watching her daughter,
+in blankets failing,
+holding on:
+too-calm face,
+yellow order.
+
+A cloth covers her.
+The men lift, shift, drop.
+Forehead kiss.
+Gurney comes in.
+Jet-lagged:
+
+Either...
+that we be there,
+come to the house,
+scanning her for
+slow sighs.
+
+In the armchair:
+sleep-die.
+To keep heat there.
+
+Death’s hand,
+cousin-kissed:
+a body becomes.
+
+After another day. 
 
  
   
@@ -2163,56 +2181,67 @@ Carol spent $800,000 in opposition to legalizing medical marijuana,
 whic h in my first election, I voted in favor of. 
 Af ter 3 posthumous lifetime ac heivement awards, people began to question the donations--
 how e very win in the city you somehow facilitate, thirt y years removed from this earth.   
-Impu ls e, Sus an M McCu lloug h, 2019 
-i ask them 
-to lo ok up 
-unt i l we've s e en
-a sho ot ing st ar
-i l ay dow n in
-a pi le of ants
-our e yes deem 
-to pierce t hem
-i tel l them
-we  won't  l e ave
-e ven if it t a kes
-unt i l midnight
-and we lo ok up 
-into moving clouds
-and Thitleft & right
-begging for a meteor
-same way i 
-search a painting
-i beg the pinks
-for meaning
-a rusty red 
-is bleeding
-a charcoal grill 
-brush drags
-we at her's turn wakes
-spirit to  thre's j oy
-o, spir it of 
-ant icipat ion
-skat ing, splits,
-a jump, cut at
-await ing dept h to 
-pounce, g re en & brig ht
-inc apable of t a k ing 
-in t he whole sky
-as for form 
-f rom gray
+mpulse, Susan M. McCullough, 2019
+
+I ask them
+to look up,
+until we’ve seen
+a shooting star.
+
+I lay down
+in a pile of ants.
+Our eyes seem
+to pierce them.
+
+I tell them
+we won’t leave,
+even if it takes
+until midnight.
+
+And we look up
+into moving clouds,
+and tilt left and right,
+begging for a meteor—
+the same way I
+search a painting.
+
+I beg the pinks
+for meaning.
+A rusty red
+is bleeding.
+
+A charcoal grill
+brush drags.
+
+Weather’s turn wakes
+spirit to joy—
+O, spirit of anticipation!
+
+Skating, splits,
+a jump, a cut.
+Awaiting depth
+to pounce—green and bright,
+incapable of taking
+in the whole sky.
+
+As for form:
+from gray,
 a sulfur yellow
-film, spill, scrape
-ac t ivat ing p aints
-t aint w hite & te a l
-ch r ist mas  fe els  
-t hre e mont hs e arly
-a fami liar re cit al
-pl aye d a be at to o slow
-rest de eply ne e de d
-for comet flaming out
-sw ing into at mosphere 
-f rom ice into he at
-o c tober 6, 2021  
+film spills, scrapes,
+activating paints.
+
+Taint white and teal.
+Christmas feels
+three months early,
+a familiar recital
+played a beat too slow.
+
+Rest deeply needed—
+for comet flaming out,
+swinging into atmosphere,
+from ice into heat.
+
+October 6, 2021 
 pd edgar
 on this day six years ago
 ekphrastic after facebook memories 
@@ -2679,143 +2708,194 @@ except for one
 but i’ve hit my boy quota too. 
 March 2020
 Apri l 2020
-II. C ru elty
-The bl an k po em blows away a s e cond time
-and I t hink / I ought to st ar t w rit ing / I guess
-The w hite lizard clings to t he p orch banister / a mess
-of de ad blee ding he art le aves ent angles t hem / the t w ine.
-A sma ll brow n one has climb e d t he cloven chair next to mine,
-& slippe d under a gray che ckered bl an ket   a test 
-of w hether it's war mer than t he br ight cre eping up p orch steps.
-The bl ack lizards on ly come onto t he v ine leaves at night. 
-From t he k notte d de ad t re e to the four-p ost column sw ings my hammo ck;
-t he wo od cre a ks wit h e ver y shift, its  thrst const ant t he pe el,
-its se cond t he crack ing br ick pat io, its decor t he sp anish moss t ins el.
-Under a ba k ing pine apple bush we plante d t wo d ays ago is a ro ck;
-on it is wr itten  f re e  li ke t he wicker ro ck ing chair in which I sit,
-li ke the ble e ding he ar t t hat scorches & f ree zes, as I let it. 
-The ble eding he ar t that s corches & fre e zes as I let it
-us es its ow n b ones to shield its elf f rom t he spr ing-summer sun
-C oug h into your elb ow and wash your hands, and you c an b e done 
-wor r y ing. w hat t he vine wou ldn't do for a spigot.
-That's how it st arte d. The air was like a yellow sky, a hint 
-e ven before t he smell of rain or the weig ht of t he w ind of the stor m to come
-had e ven arr ive d   t he kind of stor m t hat c atches you wit hout an um-
-brel l a. We tr ie d to pl ant hol ly ho ck in our garden, sav ing t he mint,
-ka le, and car rot s e eds for l ater, t hough now we wonder if se e ds expire, 
-if t here's a d ate t hat the p otent ia l for upward g rowth is out weighed 
-by prolonge d heat or prolonge d stor m. As t he front moves, Sarah is made
-slipp ery ; chronic pain swel ling as her j oints do. For her, there's a hig her 
-pl ace, wel l t wo   one on e ar t h and one ab ove. O ut west, in the moun- 
-t ains, she wi l l stretch and hi ke, and in he aven t he war's alre ady b e en won.
-Maddie says we shou ldn't st ress / in he aven, she s ays, t he war's a lre ady b een won 
-t he cicad as s cre am ot her w is e
-/ t heir siren war ning, war ning , loud even over t he motorb o ats
-of Florid a summer / the nurs e he e ds t hem, wr ites a handbo ok / night ly mask ble ach washes w rote
-memory for t roup es of te enagers / tel ling each ot her t hings / w i ll b e okay if the y st ay in t he sun
-incomplete d at a / complete dis ar ray / belie vers sing a w ish / to come undone
-w hi le I batt le pap er wasps and hors e˝ies / songs and prayers aren't w hat l ay the p ois on moat
-around my sleeping-pl ace / and t he p erch f rom w hich I'm watching for the close 
-c a lls on t he water / la ke of end less p otent i a l emergencies / cano es, water sna kes, any bac ter ium
-e ver y pl ague is a transfer of energ y / a forced me dit at ion on conne c tiv it y, cont act
-but pl ague does not a lways belie a war / con˝ic t a se cret enemy b ene at h the fabr ic of t he univers e
-p erse c ut ion is not found in a di˙erence of opinion / or in account abilit y for a liturg y of hurts 
-shou ldn't she have k now n t hat? of cours e  and of cours e not / ‚should have s e en' and ‚cou ldn't have'
-me et at a conc ussive blow to t he ne ck of a Bl ack chi ld / whist le blows t hr ice for emergenc y ac tion
-it b ecomes my dut y to br ing him to shore / to dire c t a ll w it ness es' movement in a sing le direc t ion
-it's a lways be en my dut y
- e ven before
-to direc t my e yes towards movements
+II. Cruelty
+The blank poem blows away a second time,
+and I think: I ought to start writing, I guess.
+
+The white lizard clings to the porch banister,
+a mess of dead bleeding heart leaves entangles them—the twine.
+A small brown one has climbed the cloven chair next to mine
+and slipped under a gray checkered blanket—a test
+of whether it’s warmer than the bright creeping up porch steps.
+
+The black lizards only come onto the vine leaves at night.
+From the knotted dead tree to the four-post column swings my hammock;
+the wood creaks with every shift, its thirst constant—the peel,
+its second the cracking brick patio, its decor the Spanish moss tinsel.
+
+Under a baking pineapple bush we planted two days ago is a rock;
+on it is written free—like the wicker rocking chair in which I sit,
+like the bleeding heart that scorches and freezes, as I let it.
+
+The bleeding heart that scorches and freezes, as I let it,
+uses its own bones to shield itself from the spring-summer sun.
+Cough into your elbow and wash your hands, and you can be done worrying.
+What the vine wouldn’t do for a spigot.
+
+That’s how it started. The air was like a yellow sky,
+a hint even before the smell of rain or the weight of the wind of the storm to come
+had even arrived—the kind of storm that catches you without an umbrella.
+
+We tried to plant hollyhock in our garden, saving the mint,
+kale, and carrot seeds for later, though now we wonder if seeds expire,
+if there’s a date when the potential for upward growth is outweighed
+by prolonged heat or prolonged storm.
+
+As the front moves, Sarah is made slippery;
+chronic pain swelling as her joints do. For her, there’s a higher place—
+well, two: one on Earth and one above. Out west, in the mountains,
+she will stretch and hike, and in heaven the war’s already been won.
+
+Maddie says we shouldn’t stress.
+“In heaven,” she says, “the war’s already been won.”
+
+The cicadas scream otherwise—
+their siren warning, loud even over the motorboats of Florida summer.
+The nurse heeds them, writes a handbook: nightly mask bleach washes,
+rote memory for troupes of teenagers telling each other things will be okay
+if they stay in the sun.
+
+Incomplete data. Complete disarray.
+Believers sing a wish—to come undone.
+
+While I battle paper wasps and horseflies,
+songs and prayers aren’t what lay the poison moat
+around my sleeping place, and the perch
+from which I’m watching for the close calls on the water:
+a lake of endless potential emergencies—
+canoes, water snakes, any bacterium.
+
+Every plague is a transfer of energy,
+a forced meditation on connectivity, contact.
+
+But plague does not always belie a war.
+Conflict—a secret enemy beneath the fabric of the universe.
+Persecution is not found in a difference of opinion,
+or in accountability for a liturgy of hurts.
+
+Shouldn’t she have known that? Of course, and of course not.
+“Should have seen” and “couldn’t have” meet
+at a concussive blow to the neck of a Black child.
+
+Whistle blows thrice for emergency action.
+It becomes my duty to bring him to shore,
+to direct all witnesses’ movement in a single direction.
+
+It’s always been my duty—even before—
+to direct my eyes towards movements.
   
- to t ake dire c t ion
-a line age of couns elors t hat have come before 
-to s ee a chi ld who's r unning away, to negot i ate 
-d e te nte
-and retur n them to t he fold
-t hat was before
-I s aw the chi ld was my g randp arents, them ˝ aunt- 
-ing a mammy dol l in t he cor ner of a ha l lway w here before 
-I us ed to d ance in Nar nia pij amas
-reinsp ec t ion
-of child ho o d op ens a Bible w here 
-after the Civ i l War ende d, t he C o achman fami ly regist r y had a se c t ion
-for t he names of ensl aved p e ople. 
-after pap a s ays t he quiet p art out loud, my mother and my aunts
-s cold him, but mimi says not hing
-after s ome t ime she p osts it on Faceb o ok inste ad: HERE IS ALL I WANT
-it re ads: a chain p ost, like a prayer she s ent to end t he p andemic 
-after wards she backp ed a ls at my obj ec t ion
-w hen a chi ld r uns from con˝ict, couns elors pursue t hem 
-w hen kids l ash out, counselors t a ke the blow
-w hen i pursue my grandp arents, t heir shel ls close around t hem 
-am i to couns el t hem or c ancel them? 
-i have no home to s end t hem: Limb augh r uns t he linoleum kitchen, C arls on owns t he g reen-c ar p eted den
-my sister ta kes to the st re ets 
-at c amp, I t r y to br idge homescho olers and E agle L a ke kids, prop os e
-a v ie w throug h t he eyes of Jesus 
-hims elf ki l led unjust ly, hims elf fau lt less in his de ath, hims elf an obit
-t hat wou ld change world's weig ht
-hims elf spun into fo ol's gold nar rat ives, thre e-sy l lable counter feight.
-has it change d, gold's weight? w hy, t hen, t he 24-hour re ck less spin of FeS
+To take direction—
+a lineage of counselors that have come before,
+to see a child who’s running away,
+to negotiate détente
+and return them to the fold.
+
+That was before
+I saw the child was my grandparents,
+them haunting a mammy doll
+in the corner of a hallway where, before,
+I used to dance in Narnia pajamas.
+
+Reinspection
+of childhood opens a Bible where,
+after the Civil War ended,
+the Coachman family registry had a section
+for the names of enslaved people.
+
+After Papa says the quiet part out loud,
+my mother and my aunts scold him,
+but Mimi says nothing.
+
+Some time later,
+she posts it on Facebook instead:
+HERE IS ALL I WANT—
+it reads like a chain post,
+a prayer she sent to end the pandemic.
+
+Afterward, she backpedals at my objection.
+
+When a child runs from conflict,
+counselors pursue them.
+When kids lash out,
+counselors take the blow.
+
+When I pursue my grandparents,
+their shells close around them.
+
+Am I to counsel them or cancel them?
+I have no home to send them to:
+Limbaugh runs the linoleum kitchen,
+Carlson owns the green-carpeted den.
+
+My sister takes to the streets.
+At camp, I try to bridge homeschoolers and Eagle Lake kids,
+proposing a view through the eyes of Jesus—
+himself killed unjustly,
+himself faultless in his death,
+himself an obituary
+that would change the world’s weight—
+himself spun into fool’s gold narratives,
+three-syllable counterfeit.
+has it change d, gold's weight? w hy, then, the 24-hour re ck less spin of FeS
 2
  around 3-sy l lable counterweig hts 
-me ant 2 beg in account ing 4 3 centuries of debt? e ach 1,000,000,000,000
+me ant 2 beg in accounting 43 centuries of debt? e ach 1,000,000,000,000
 th
- dol l ar is rent f rom t he feet of t he p o or, 
-f rom t he C O
+ dol l ar is rent f rom the feet of the p o or, 
+f rom the C O
 2
  an d  O
 3
-, f rom t he 4merly wor t h 3 5
+, f rom the 4merly wor t h 3 5
 t hs  
 p e ople, f rom 18,000,000 p eople re duced 2 1 sing le  Nat ive L ore 
-mer it b adge in t he B oy S couts of Amer ica. in pl ace of resti2t ion, 13 str ip es t imes 3 at t he hands of w hite hate 
+mer it b adge in the B oy S couts of Amer ica. in pl ace of resti2t ion, 13 str ip es t imes 3 at the hands of w hite hate 
 and 2 the 2ne of [   ,     ,     ,     ,    ] bu l lets. it had to happ en b ad ly here   2 many opinions de cide d our f8, 2 w8 
-s o t he y cou ld s que eze 1 l ast $ out of t he summer. & even then 100s of de cisions were pass e d on, 4 t here're wars
+s o the y cou ld s que eze 1 l ast $ out of the summer. & even then 100s of de cisions were pass e d on, 4 there're wars
 2 de ad ly not 2 pro tht f rom.  Sup er-spre ader : 1 p8ient resp onsible for spre ading infe c t ion 2 many p eople more.
-we w1dere d 4 3 d ays if 5  thsh had die d b e caus e 2 boys wit h COVID-19 had k iss e d t hem. f rom 10 2 14 d ays l8r 
-we'd we e ded out w ho'd gotten it, w ho's do or f rames or masks t he angel of deat h'd p ass'd o'er, a conspic uous fe w.
- Sur v ivor's guilt : as you watch your fami ly sur v ive, but not ot hers', and your f r iends sicken, but not yours elf  
+we w1dere d 4 3 d ays if 5  thsh had die d b e caus e 2 boys wit h COVID-19 had k iss e d them. f rom 10 2 14 d ays l8r 
+we'd we e ded out w ho'd gotten it, w ho's do or f rames or masks the angel of deat h'd p ass'd o'er, a conspic uous fe w.
+ Sur v ivor's guilt : as you watch your fami ly sur v ive, but not others', and your f r iends sicken, but not yours elf  
 you 1der w hat b argain Go d st r uck 2 qu arant ine you at summer c amp, & 2 fe el w rong 4 t han k fu lness as shelves
 of re-resto cke d p ap er go ods cle ar 4 the ump
 th
  time. 2 b e g l ad 2 w8 in your c ar outside an UrgentCare dr ivet hru 
-b e caus e it's  just  an ir regul ar he ar tbe at. w hat was t r8ed? am i a t r8or for liv ing to 22? b ack in 2016 2020 didn't
-fe el p ossible. t he numb ers 2 far away, ˝y ing c ars away. we drove 20 mi, 30 min, w it h no guarante e of test k its.
-I fe el __ the p ossibi lit ies. __ miles away, no ˝y ing or cars; we wa l ked __ mi les, __ days, w it h our mess k its. 
-The __ morning on t he Trai l, we s aw t he __ of hi l ls we were due to climb and gagued how __ it'd t a ke. 
-__ of t he steps, I press e d w it h intent ion into my __ fe et, chant ing hop e in my head, t i l l we hit t he __ pe a k. 
+b e caus e it's  just  an ir regul ar he ar tbe at. w hat was t r8ed? am i a t r8or for living to 22? b ack in 2016 2020 didn't
+fe el p ossible. the numb ers 2 far away, flying c ars away. we drove 20 mi, 30 min, w it h no guarante e of test k its.
+I fe el __ the p ossibi lit ies. __ miles away, no flying or cars; we wa l ked __ mi les, __ days, w it h our mess k its. 
+The __ morning on the Trai l, we s aw the __ of hi l ls we were due to climb and gagued how __ it'd t a ke. 
+__ of the steps, I press e d w it h intent ion into my __ fe et, chanting hop e in my head, t i l l we hit the __ pe a k. 
 on __ des cent, my ner ves relishe d in the drop, hoping the __ wou ld ne ver end; I didn't want to jinx it, 
-s o I kept mys elf from admitt ing the __ out loud, from rep e at ing t he count to mys elf, a s ong of worship 
+s o I kept mys elf from admitting the __ out loud, from rep e ating the count to mys elf, a s ong of worship 
 t hat wou ldn't __, a ke y change __ and __ chor us inste ad of a __. my legs a drummer pounding __
-into t he mount ains, f rom whos e swe at stre ams of __ orig inate. we gave ours elves __ names to shap e
+into the mount ains, f rom whos e swe at stre ams of __ orig inate. we gave ours elves __ names to shap e
 our stor y out of, to remember our __ t ime. it wou ld rain, and we'd r un to our bags to sle ep.
 After this __ epis o de on a __ t rai l, I move d to my life's f ront ier, a __ hous e in the __ wo o ds
 w here I re ad __ b o oks to remind me there are __ kinds of de at h hidden by __ hush  
-and w rote __ po ems to the __ c ardb o ard st ashe d t he __ be dro om and a high-s cho ol crush.
-D esperate for change I can cont rol, I develop a __ habit of wal k ing the neig hb orho o d.
-I wonder if things w il l get __, but __ I c an do is sp e a k to t he w indows and fashion 
+and w rote __ po ems to the __ c ardb o ard st ashe d the __ be dro om and a high-s cho ol crush.
+D esperate for change I can cont rol, I develop a __ habit of wal king the neig hb orho o d.
+I wonder if things w il l get __, but __ I c an do is sp e a k to the w indows and fashion 
 a __ wonder for mys elf here, in a __ st ate __ of mos quito es and __-t ime relig ion.
 The bl an k po em blows away a s e cond time
 li ke the ble e ding he ar t t hat scorches & f ree zes, as I let it.
 Maddie says we shou ldn't st ress
-in he aven, she s ays, t he war's a lre ady b een won 
-it's a lways be en my dut y
- e ven before
-to direc t my e yes towards movements
+in he aven, she s ays, the war's a lre ady b een won 
+it's always been my duty
+ even before
+to direct my eyes towards movements
   
- to t ake dire c t ion
-t hat wou ld change world's weig ht
-hims elf spun into fo ol's gold nar rat ives, thre e-sy l lable counter feight?
-fe el p ossible. t he numb ers 2 far away, ˝y ing c ars away. we drove 20 mi, 30 min, w it h no guarante e of test k its.
+ to take direction
+that would change world's weight
+himself spun into fool's gold narratives, three-syllable counter feight?
+feel possible. the numb ers 2 far away, flying c ars away. we drove 20 mi, 30 min, w it h no guarante e of test k its.
 a simple wonder for myself here, in a novel st ate fu l l of mosquito es and old-time religion.
-The bl an k po em blows away a s e cond time
+The blank poem blows away a second time
 May 2020 
 XIV. 
 202x XV. is w hol e time
-A sig nifi e r for thos e w ho no l onger w alk w ith u s: 
-a l l many 17 5 / se cond numb er long / each two next / e very des cent / opt imism / end dow n anot her  thna le deep / life ne w
- thrst  / shor t wel l-wor n litt le big / shor t ot her forgett ing / sil ly leftover ne w / short-live d / better a l l / simple novel fu l l old 
+A signifier for those who no longer walk with us: 
+all many 17 5 / second number long / each two next / e very des cent / opt imism / end down another  thna le deep / life ne w
+ thrst  / short well-worn little big / short at her forgetting / silly leftover new / short-lived / better a l l / simple novel fu l l old 
 
 10 Questions to Diagnose Your Spiritual Health 
 
@@ -3355,11 +3435,7 @@ getaway-style entertainment from their church; they were busy doing real communi
 The first church we went to in Nicaragua was a house church in Nagarote, past Mateare, between Managua and Leon. Our first time, the pastor asked if my mother would be interested in leading Sunday School for the children. In a cultural miscommunication between my parents and the local pastor, this turned into a weekly position; my parents didn’t know when they said ‘yes’ that they were agreeing to a full-time responsibility. My parents stayed there for quite a while, up to when they acquired a new church property, which was already the shell of a church. There were walls, but no paved floors, and no roof, yet—shrubs grew out from underneath the Sunday school “room” where we laid out navy blue furniture blankets that provided enough of a surface to color in the lions in the story of Daniel with a RoseArt crayon. We had a portable whiteboard with us that we used to teach a memory verse, erasing words one by one. 
 ROAD #5
 What I see few of in the US is the microbus—the 22-seater with five or six aisles and fold-out aisleseats. They’re so much smaller than American charter buses, because they have no undercarriage for luggage—they just take people, and a little stuff stacked between the back seat and the back hatch. My friend Nicole’s dad runs a driving company our school contracted to bus students across town in the morning and on field trip days. They have curtains, vinyl upholstery, dirty floors, no AC, and tall windows, open to the smog and sounds of traffic, to breeze and dust. 
- 
- 
- 
- 
- 
+  
 The experience of full microbuses (and, maybe, of Nicaragua in general) is always loud, always close, always a little bit sweaty. A 100-pound high-schooler, I usually sat in a slanted aisleseat, hinges bent by past weight. It was away from the window—the benefit of airflow risked diesel exhaust if stuck behind the wrong truck. Once a hand thrust through the window, snatching a girl’s sunglasses off her head; another time the hand threw a palmfrond souvenir tossed in. An overcrowded microbus hit my neighborhood wall once. Blood dripped out of the shattered back. 
 Figure 11 : Stone Poem
 When my father returns from the mines, he brings a scrap of the mountain,
@@ -3681,7 +3757,7 @@ You feel a bump at your butt -- it’s the dog, nosing your form sunk into the t
 Every second Thursday, the Downtown Lakeland Partnership hosts a food truck rally, and I sprint to the Nicaraguan food truck, Fritango, with my college-provided voucher. Compared to eating a queso frito from Fritango, buying from other food trucks at the rally is like trying to use toenail clippers on your hands— unsatisfying and impractical. I order carne asada with chimichurri and tostones con queso and gallo pinto. I wouldn’t choose lobster kebabs because they are not brochetas and I wouldn’t eat a grilled cheese and soup because it is not a nacatamal. There is no true choice to be made. 
 Nicaragua and Costa Rica are engaged in a silent culture war. Intergovernmental border treaties say that the Rio San Juan marks the boundary between Nicaragua and Costa Rica, but when the Nicaraguan Sandinista government tested that agreement by diverting the river farther south, things got messy. As you stand in line at the airport, video montages of the river play with logos advertising the scene as a Nicaraguan attraction, with pangas—10-foot boats with Yamaha engines and fiberglass hulls—skimming its surface. But even though the official international dispute concerns the Rio San Juan, the people’s battle pertains to gallo pinto, which is when you serve rice and beans served mixed together. If you go to the mercados (not the real ones, but the ones that we take the tourists to), artisans sell small masks and purses and hammocks, paintings hung next to tank tops saying, “Gallo pinto es 100% Nica”— “one hundred percent Nicaraguan.” 
 When I think of food that belongs to the U.S. South, where I was born before I moved to Nicaragua at age 8, indisputable staples appear to me: Persian lime pie, cornbread pudding—deep-fried okra. In my experience so far, no northerner has dared to cross the culinary line to claim that those foods could be anything but pertaining to the same culture as bungalow homes and peaches. In Nicaragua, things are different—any pinolero (a folk name for Nicaraguans) will tell you that Costa Rican gallo pinto, made with black beans instead of the superior Nicaraguan frijoles rojos, is frowned upon. 
-Nicaraguan gallo pinto sticks to itself, but it is not sticky. The beans and rice remain distinct in flavor but so complementary that to separate them is to insist that you neither know nor care about its identity as a dish. Costa Rican rice and beans are loose and oily, and sometimes so many other vegetables get thrown in with the main two ingredients that the name gallo pinto shouldn’t even apply. Costa Rican rice and beans is for picky eaters.  
+Nicaraguan gallo pinto sticks to itself, but it is not sticky. The beans and rice remain distinct in flavor but so complementary that to separate them is to insist that you neither know nor care about its identity as a dish. Costa Rican rice and beans are loose and oily, and sometimes so many other vegetables get thrown in with the main twoingredients that the name gallo pinto shouldn’t even apply. Costa Rican rice and beans is for picky eaters.  
 My mother found out when we first moved to Latin America that the dust that drafted into our house each day was too much for her to handle. She was already juggling laundry and the task of coordinating service trips between American groups who support our family’s work and the communities they would bring medicine and food packages to. After consulting with other missionary wives in Managua, she hired Azucena Monroy, an English and computer science student at the Instituto Diocesano in town to sweep the porch, mop the floor, dust the bookshelves, and bathe our dog. Azucena, whose name my grandmother believes is pronounced “antsy zenith” but is translated “Lily,” is the same height as my mom, less than five feet, but average height for a Nicaraguan woman. She is thin and has dark brown hair; she is quiet. She cleans quietly, with her headphones in her ears, but she doesn’t listen to music while she washes dishes. She uses lemon-scented Pledge furniture spray. She loves Pippin, my dog, and he loves her back. He is bilingual because of her. 
 When I was in third grade, my family was robbed by someone who broke the padlocks on our driveway gate, back gate, and back door. Several other families were robbed, so the community decided to pool money and hire a guard service. Cooking lunch and dinner one day a week for the men who patrolled the neighborhood was added to Azucena’s tasklist. This was when Nicaraguan food became part of my home life—my parents didn’t cook it. 
 I didn’t realize the crucial difference between red-bean gallo pinto and black-bean Costa Rican gallo pinto until I was in high school. That was mainly due to the fact that I never ate Nicaraguan food at home—or at school—until I started the eleventh grade. My parents served the same dinners when our house faced coffee crops that we had eaten when we lived in front of an orange grove in Florida: a starch, a vegetable, and a meat, with bread on the side. I took leftovers to school every day and ate out of Tupperware containers. Meanwhile, my younger sister and my friends—whether they were Nicaraguan or had moved to Nicaragua from Canada, Korea, Honduras, or the U.S.—consumed tajadas with queso blanco and pollo frito served on red plastic trays in the Cafetín. 
