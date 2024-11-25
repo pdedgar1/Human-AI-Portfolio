@@ -8,6 +8,21 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('.card h3').click(function() {
+                $(this).parent('.card').toggleClass('expanded');
+            });
+        });
+    </script>
+<style>
+        .card p {
+            display: none;
+        }
+        .card.expanded p {
+            display: block;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -29,18 +44,22 @@
                 <div class="card" id="card1">
                     <h3>Experiment 1: Claude Poem</h3>
                     <p>the earth holds its breath in these moments / before the thaw comes in earnest / frost still crisp beneath my boots / and the dog's eager panting clouds the air / we are the only living things stirring / except for the brave crocuses pushing through half-frozen soil / their purple heads bent like monks in prayer / my fingers ache inside wool gloves / but something in me knows the warmth is coming / like the way birds know to return / my body remembers other springs / other mornings / the quiet street belongs to us alone / each footfall echoing off empty porches / dawn barely scratching at the horizon / and my dog stops to investigate something I cannot smell / his whole being alert and present / while my mind drifts between seasons / between sleeping and waking / between the person I am in darkness and the one I become in light / the mail truck will come later / children will wait for buses / but for now the world is all potential / all breath / all beating heart and muscle and bone / moving through space like prayer</p>
+                    <a href="textual/ex1/index.html">Claude Poem</a>
                 </div>
                 <div class="card" id="card2">
                     <h3>Experiment 2: ChatGPT Poem</h3>
                     <p>The air bites with the last sharp teeth of winter / his breath clouds / ghosting ahead like an impatient companion / the leash taut between hand and paw / the dog sniffs at frost-tipped grass / a curious archaeologist of smells left by the night / nothing stirs / not yet / the world is suspended / between the dark hours and the first light / clouds bruise the horizon / faint purple / a suggestion of day’s arrival / the man’s hands stiffen / fingers curled tight against the cold / but his body moves anyway / familiar steps / the crunch of shoes on frozen soil / a rhythm born of countless mornings like this / and yet / something feels lighter today / the earth softer / the wind slower / as though the world itself is loosening / unfurling / promising / the dog pauses / ears perked / nose pointed toward the edge of the field where dew glints like new stars / and the man breathes / deep / the air still cold in his chest / but alive / alive in a way that speaks of change / of greenness hiding beneath the frost / of silence waiting to break into birdcalls and bees / his muscles warm as he bends / scratches the dog’s ears / a fleeting moment of shared warmth / shared knowing / the leash slackens / and they walk on / together / into the pale and waking spring.</p>
+                    <a href="textual/ex2/index.html">ChatGPT Poem</a>
                 </div>
                 <div class="card" id="card3">
                     <h3>Experiment 3: Google Gemini Poem</h3>
                     <p>mornings like this / quiet / crisp / the dog yanks at the leash / eager / the world still asleep / frost-kissed / the air sharp / the ground damp / a new day / a new year / the man and the dog / a pair / moving through the neighborhood / silent / the only sounds / their footsteps / their breath / the dog's panting tongue / a rhythm / a beat / a dance / of life / against the backdrop / of a sleeping world</p>
+                    <a href="textual/ex3/index.html">Gemini Poem</a>
                 </div>
                 <div class="card" id="card4">
                     <h3>Experiment 4: Microsoft CoPilot Poem</h3>
                     <p>Spring whispers through the frost-laden air / I step out / the world still wrapped in the quiet of dawn / my breath mingles with the mist / my dog at my side / paws padding on the dew-kissed ground / the street littered with yesterday’s party debris / discarded cups and wrappers / echoes of laughter and dog droppings left behind / the sky blushes with the first light / trees stretch their limbs / shaking off winter’s slumber / each step a conversation with the earth / the cold nips at my cheeks / a reminder of the night’s chill / yet the sun’s first rays warm my skin / my dog sniffs the air / sensing the subtle shift / the world begins to wake / but for now / it is ours alone / a sacred silence / a breath shared between us / man and dog / heartbeats in sync / walking the edge of night and day / spring’s gentle arrival / a symphony of stillness / a dance of life unfolding / quiet / beautiful / in the early morning light</p>
+                    <a href="textual/ex4/index.html">CoPilot Poem</a>
                 </div>
             </div>
         </section>
